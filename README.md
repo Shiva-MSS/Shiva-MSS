@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Data Science Foundations at codeacademy
 - 👯 I’m looking to collaborate on Data_Science/Machine_learning and cryptography projects
 - 🤔 I’m looking for help with Deployment of ML models in Production
-- 💬 Ask me about Anything from Politics ro technology and relegion...
+- 💬 Ask me about Anything from Politics to technology and relegion...
 - 📫 How to reach me: Twitter:https://twitter.com/MedipalliShiva, 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I can walk like a dragon.
